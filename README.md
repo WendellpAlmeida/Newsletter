@@ -1,4 +1,4 @@
-Projeto Newsletter com HTML,CSS e Javascript, aplicado tema claro e escuro com javascript 
+Projeto Newsletter com HTML,CSS e Javascript, aplicado tema claro e escuro com javascript e aplicado a data do footer para alterar conforme a troca de anos com javascript.
 
 
 
